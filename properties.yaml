@@ -1,0 +1,6 @@
+---
+username: "root"
+password: "Ansol@421"
+systemname: "localhost"
+port: "3306"
+database: "goldboxdb"
